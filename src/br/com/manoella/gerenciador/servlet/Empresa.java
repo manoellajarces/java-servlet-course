@@ -1,6 +1,7 @@
 package br.com.manoella.gerenciador.servlet;
 
 public class Empresa {
+	
 	private int id;
 	private String nome;
 	
